@@ -1,8 +1,6 @@
 ← [Back to Menu](https://telinkgithub.github.io/Telink/ "Menu")
 ![header-telink](https://i.imgur.com/5kRG6CF.jpg)
 
-# 826x BLE RCU Quick Start
-
 ## Features
 
 The RC demo supports the following features:
